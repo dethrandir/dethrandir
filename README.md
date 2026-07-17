@@ -1,4 +1,4 @@
-### Your favorite Gazi student
+# Your favorite Gazi student
 Efe, Computer programming, high GPA (3.88), coding since 10, productive, eager, etc. etc. 🥱
 
 ## Skills
