@@ -30,4 +30,4 @@ And built tens of various apps, libraries, tools; I can't count them 🙄
 
 That's all...
 
-Lovely ❤️
+**Lovely** ❤️
