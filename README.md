@@ -3,7 +3,7 @@ Efe, Computer programming, high GPA (3.88), coding since 10, productive, eager, 
 
 ## Skills
 - Linux
-- C++, CUDA, GLSL, ROS2
+- C++, CUDA
 - Rust
 - Python
 
